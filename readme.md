@@ -189,4 +189,4 @@ Open 'http://localhost:8000/api/auth/'
 
 ## Test Cases
 #### All the accomplished test cases are published as the Postman Documentation
-##### The respected link for the project is in [Postman Documentary](https://documenter.getpostman.com/view/11578501/TVKHTaAs)
+##### The respected link for the project is in [Postman Documentary](https://www.getpostman.com/collections/ca38a1e47a363549b52d)
